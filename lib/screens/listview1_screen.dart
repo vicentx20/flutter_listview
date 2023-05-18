@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 class Listview1 extends StatelessWidget {
-  var games = ["pow", "red", "1989", "reputa"];
+  var games = ["pow", "fornite", "pacman", "mortal kombat"];
   @override
   Widget build(BuildContext context) {
     return Scaffold(
